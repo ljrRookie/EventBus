@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventBus</string>
+    <string name="title_activity_event_bus_send">EventBusSendActivity</string>
+</resources>
